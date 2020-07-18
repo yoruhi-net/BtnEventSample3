@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BtnEventSample</string>
+    <!-- 追記 -->
+    <string name="txt_before">hello world!!</string>
+    <string name="btn_str">Click here</string>
+    <string name="txt_after">Change Text</string>
+</resources>
